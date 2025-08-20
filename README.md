@@ -1,2 +1,2 @@
-# React-C-
+# ReactС
 Project MO SEP 121
